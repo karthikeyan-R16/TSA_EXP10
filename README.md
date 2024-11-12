@@ -1,5 +1,7 @@
 # Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
-### Date: 
+## Developed by : Karthikeyan R
+## Reg No: 212222240045
+## Date : 
 
 ### AIM:
 To implement SARIMA model using python.
